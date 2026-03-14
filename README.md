@@ -59,7 +59,7 @@ mqtt-device-watchdog/
 
 ### Watchdog — Real-time Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/watchdog.png)
 
 ## Quick Start
 
